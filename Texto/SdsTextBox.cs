@@ -4,7 +4,6 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Globalization;
 using System.Linq;
-using System.Numerics;
 using System.Windows.Forms;
 
 namespace SDSB005D.Componentes.Texto
